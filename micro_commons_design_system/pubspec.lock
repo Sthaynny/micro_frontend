@@ -43,13 +43,6 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.15.0"
-  cupertino_icons:
-    dependency: "direct main"
-    description:
-      name: cupertino_icons
-      url: "https://pub.flutter-io.cn"
-    source: hosted
-    version: "1.0.3"
   fake_async:
     dependency: transitive
     description:
@@ -95,20 +88,6 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.7.0"
-  micro_app_login:
-    dependency: "direct main"
-    description:
-      path: "../micro_app_login"
-      relative: true
-    source: path
-    version: "0.0.1"
-  micro_core:
-    dependency: "direct main"
-    description:
-      path: "../micro_core"
-      relative: true
-    source: path
-    version: "0.0.1"
   path:
     dependency: transitive
     description:
